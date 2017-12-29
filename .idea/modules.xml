@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:\android_projek\arsip\mobile\HMJSI.iml" filepath="D:\android_projek\arsip\mobile\HMJSI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HMJSI.iml" filepath="$PROJECT_DIR$/HMJSI.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\android_projek\arsip\mobile\app\app.iml" filepath="D:\android_projek\arsip\mobile\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mobile.iml" filepath="$PROJECT_DIR$/mobile.iml" />

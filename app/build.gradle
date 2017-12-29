@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "id.ac.akakom.hmjsi"
+        applicationId "com.gmail.rodesta2212.hmjsimobile"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
